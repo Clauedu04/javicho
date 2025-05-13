@@ -1,5 +1,5 @@
 import streamlit as st
-from chempy import balance_stoichiometry
+from requirements.txt import balance_stoichiometry
 
 st.set_page_config(page_title="Balanceador de Ecuaciones Químicas", page_icon="⚗️")
 
